@@ -3,7 +3,9 @@
 ### Full‑Stack Developer | C++ & DSA Enthusiast | VIT Bhopal
 
 ---
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshityagi811&hide=contribs,prs)
 
+---
 ## 🚀 About Me
 
 * 🎓 B.Tech CSE Student at **VIT Bhopal**
