@@ -3,9 +3,7 @@
 ### Full‑Stack Developer | C++ & DSA Enthusiast | VIT Bhopal
 
 ---
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshityagi811&hide=contribs,prs)
 
----
 ## 🚀 About Me
 
 * 🎓 B.Tech CSE Student at **VIT Bhopal**
@@ -97,16 +95,19 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshityagi811&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshityagi811&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=harshityagi811&theme=tokyonight" />
 </p>
-
 ---
 
 ## 📫 Connect With Me
 
-* 📧 Email: [harshitya811@gmail.com](mailto:harshitya811@gmail.com)
-* 💼 LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit%20Tyagi-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/harshit-tyagi-17a089331)
+
+[![Email](https://img.shields.io/badge/Email-harshitya811%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:harshittg811@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@harshit__tyagi-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/ithrt_811/)
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge\&logo=geeksforgeeks\&logoColor=white)](https://www.geeksforgeeks.org/user/harstyo9n0/)
 
 ---
 
