@@ -18,23 +18,41 @@
 
 ### Languages
 
-`C` `C++` `Python` `JavaScript` `Java`
+[![C](https://skillicons.dev/icons?i=c)](https://en.cppreference.com/w/c) C 
+[![C++](https://skillicons.dev/icons?i=cpp)](https://en.cppreference.com/w/) C++
+[![Python](https://skillicons.dev/icons?i=python)](https://docs.python.org/3/) Python
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) JavaScript
+[![Java](https://skillicons.dev/icons?i=java)](https://docs.oracle.com/en/java/) Java
 
 ### Frontend
 
-`HTML` `CSS` `React` `Tailwind`
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) HTML
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) CSS
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/) React
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/docs) Tailwind
+
 
 ### Backend
 
-`Node.js` `Express.js`
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en/docs) Node.js
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/) Express.js
+
 
 ### Database
 
-`MongoDB` `MySQL` `Firebase`
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/docs/) MongoDB
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://dev.mysql.com/doc/) MySQL
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/docs) Firebase
+
 
 ### Tools & Platforms
 
-`Git` `GitHub` `Linux` `Postman` `VS Code`
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/doc) Git
+[![GitHub](https://skillicons.dev/icons?i=github)](https://docs.github.com/) GitHub
+[![Linux](https://skillicons.dev/icons?i=linux)](https://linuxjourney.com/) Linux
+[![Postman](https://skillicons.dev/icons?i=postman)](https://learning.postman.com/docs/getting-started/introduction/) Postman
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/docs) VS Code
+
 
 ---
 
